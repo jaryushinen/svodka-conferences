@@ -1,0 +1,23 @@
+{
+  "conference_id": "conf_5ef31e5a1ae74dc79f808a6b80e2bc28",
+  "meeting_id": "327000b14d8a49e7889e003756ac97b5",
+  "workspace_id": "local",
+  "title": "YTDown_YouTube_Media_ysSOuNkbZrY_005_240p.mp4",
+  "description": "Выполнено автоматическое распознавание речи с помощью faster-whisper. Определённый язык: ru. Количество фрагментов расшифровки: 140.",
+  "category": "Менеджмент",
+  "topics": [
+    "Задачи и следующие шаги"
+  ],
+  "summary": "Выполнено автоматическое распознавание речи с помощью faster-whisper. Определённый язык: ru. Количество фрагментов расшифровки: 140.",
+  "visibility": "workspace",
+  "source_type": "meeting",
+  "source_meeting_title": "YTDown_YouTube_Media_ysSOuNkbZrY_005_240p.mp4",
+  "duration_sec": 414.151125,
+  "language": "ru",
+  "created_at": "2026-06-01T13:43:16.406924+00:00",
+  "updated_at": "2026-06-01T13:43:16.406995+00:00",
+  "cloud_status": "local",
+  "cloud_provider": "local",
+  "cloud_url": null,
+  "storage_path": null
+}
