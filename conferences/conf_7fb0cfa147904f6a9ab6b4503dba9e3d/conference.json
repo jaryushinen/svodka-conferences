@@ -1,0 +1,23 @@
+{
+  "conference_id": "conf_7fb0cfa147904f6a9ab6b4503dba9e3d",
+  "meeting_id": "83c39feeaa9e43809fc72148196e73c0",
+  "workspace_id": "local",
+  "title": "YTDown_YouTube_Media_ysSOuNkbZrY_005_240p.mp4",
+  "description": "",
+  "category": "Другое",
+  "topics": [
+    "General"
+  ],
+  "summary": "",
+  "visibility": "workspace",
+  "source_type": "meeting",
+  "source_meeting_title": "YTDown_YouTube_Media_ysSOuNkbZrY_005_240p.mp4",
+  "duration_sec": null,
+  "language": "ru",
+  "created_at": "2026-06-01T13:48:28.622972+00:00",
+  "updated_at": "2026-06-01T13:48:28.623019+00:00",
+  "cloud_status": "local",
+  "cloud_provider": "local",
+  "cloud_url": null,
+  "storage_path": null
+}
